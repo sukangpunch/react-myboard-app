@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-myboard-app/static/css/main.e6c13ad2.css",
+    "main.js": "/react-myboard-app/static/js/main.bd367031.js",
+    "static/js/453.66ddb269.chunk.js": "/react-myboard-app/static/js/453.66ddb269.chunk.js",
+    "index.html": "/react-myboard-app/index.html",
+    "main.e6c13ad2.css.map": "/react-myboard-app/static/css/main.e6c13ad2.css.map",
+    "main.bd367031.js.map": "/react-myboard-app/static/js/main.bd367031.js.map",
+    "453.66ddb269.chunk.js.map": "/react-myboard-app/static/js/453.66ddb269.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bd367031.js"
+  ]
+}
